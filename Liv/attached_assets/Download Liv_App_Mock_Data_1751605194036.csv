@@ -1,0 +1,6 @@
+Name,Type,City,Description,Image_URL,Latitude,Longitude,ValidUntil,QR_Code
+Joey Burrard,Restaurant Deal,Vancouver,Happy Hour 3–6PM: 25% off appetizers and cocktails,https://example.com/joey.jpg,49.2837,-123.1216,2025-07-05 18:00,LIV-JOEY25
+Chipotle Robson,Restaurant Deal,Vancouver,Free guac with burrito for Liv users,https://example.com/chipotle.jpg,49.2845,-123.1203,2025-07-05 21:00,LIV-GUAC
+Rogers Arena,Event,Vancouver,Drake Live – Tonight at 8 PM,https://example.com/rogers.jpg,49.2775,-123.1086,2025-07-03 23:00,LIV-DRAKE
+Lululemon Kitsilano,Retail Deal,Vancouver,"Buy yoga mat, get free water bottle",https://example.com/lulu.jpg,49.2704,-123.1556,2025-07-10 22:00,LIV-LULU
+Sportchek Metrotown,Retail Deal,Vancouver,Free socks with footwear purchase,https://example.com/sportchek.jpg,49.2265,-123.0029,2025-07-06 20:00,LIV-SOCKS

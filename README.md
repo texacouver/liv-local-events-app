@@ -1,6 +1,10 @@
 # Liv - Local Events & Deals Platform
 
-A mobile-first web application that helps users discover local events and deals in Vancouver with personalized recommendations powered by machine learning.
+## Product case study
+
+The product thinking, discovery research, prototype evolution, and MVP experience direction are documented in [the canonical Liv PM case study](docs/Liv_Canonical_PM_Case_Study.md). The accompanying MVP screen presentation is available at [docs/assets/liv-mvp-flow.png](docs/assets/liv-mvp-flow.png).
+
+A mobile-first web application that helps users discover local events and deals in Vancouver with personalized recommendations powered by an early rule-based scoring prototype.
 
 ## Screenshots
 
